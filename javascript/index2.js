@@ -4,7 +4,7 @@ export const profile=[
         ,sex:"Male"
         ,phone:"086936457"
         ,add:"Phnom Phenh"
-        ,img:"/img/pic/Me.png"
+        ,img:"./img/pic/Me.png"
         ,money:5000
     }
 ]
